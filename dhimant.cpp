@@ -8,4 +8,5 @@ class Dhimant{
 };
 int main(){
     Dhimant d;
+    return 0;
 }
